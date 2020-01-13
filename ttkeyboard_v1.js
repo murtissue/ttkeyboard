@@ -1,10 +1,13 @@
 /**
 * TTKeyboard
-* GPIO 0 ~ GPIO 13 Input Pullup
-* GPIO 14 ~ GPIO 18 OUTPUT
+* https://github.com/murtissue/ttkeyboard
+* @version : 1.0
+* @author : HyunseoPyo (murtissue@gmail.com)
 */
 const fs = require('fs'); 
 const Gpio = require('onoff').Gpio;
+// GPIO 0 ~ GPIO 13 Input Pullup
+// GPIO 14 ~ GPIO 18 OUTPUT
 const pinCol0 = new Gpio(0, 'in', 'both');
 const pinCol1 = new Gpio(1, 'in', 'both');
 const pinCol2 = new Gpio(2, 'in', 'both');
