@@ -1,4 +1,4 @@
-# ttkeyboard
+# TTkeyboard
 Raspberry PI zero as a mechanical keyboard 
 ![20190228_115357](https://user-images.githubusercontent.com/9018539/72232920-958df180-3607-11ea-8481-ca89bed05c6a.jpg)
 ![IMG_2255](https://user-images.githubusercontent.com/9018539/72233054-675ce180-3608-11ea-9f5f-b836f9a92ea4.JPG)
